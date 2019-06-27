@@ -1,0 +1,46 @@
+Chapter 1: Overview
+
+1.1 Introduction
+1.2 Problem Statement
+1.3 Methods of Location Tracking
+        1.3.1 Outdoor Positioning Systems (OPS)
+        1.3.2 Indoor Positioning Systems (IPS)
+        1.3.3 Application Positioning Systems (APS)
+1.4 Objectives of Study     
+1.5 Research Questions                                                      
+1.6 Outline of Dissertation
+
+Chapter 2: Literature Review
+
+2.1 Introduction
+2.2 Literature Review on Outdoor Systems
+        2.2.1 Literature on on Outdoor Positioning Systems (OPS)
+        2.2.1 Classification on various Outdoor Positioning Systems (OPS)
+2.2 Literature Review on Indoor Systems
+        2.2.1 Literature on on Indoor Positioning Systems (IPS)
+        2.2.1 Classification on various Indoor Positioning Systems (IPS)
+2.3 Literature Review on Application Systems
+        2.2.1 Literature on on Application Positioning Systems (APS)
+        2.2.1 Classification on various Application Positioning Systems (APS)
+2.4 Conclusion                                                      
+
+Chapter 3: Outdoor Positioning Systems (OPS)
+
+3.1 Introduction
+3.2 Devices used in Outdoor Positioning Systems (OPS)
+        3.2.1 Adafruit FONA 808 - Mini Cellular GSM + GPS
+                3.2.1.1 Specifications, Features and Pin out
+                3.2.1.2 Implementation and Results
+         3.2.2 Pycom GPy Board + WiFi 
+                3.2.2.1 Specifications, Features and Pin out
+                3.2.2.2 Implementation and Results       
+         3.2.3 TK102B GPS GSM GPRS Tracker
+                3.2.3.1 Specifications, Features and Pin out
+                3.2.3.2 Implementation and Results
+         3.2.4. Quad band GPS Tracker Gt02A
+                 3.2.3.1 Specifications, Features and Pin out
+                3.2.3.2 Implementation and Results
+         3.2.5 Tracking using Smartphone with Google
+         3.2.6 Tracking using Smartphone without Google
+3. Conclusion
+3. Publication
